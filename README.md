@@ -87,15 +87,3 @@ This event name is `customer-canvas-submitted` and the canvas data can be access
 ```
 
 ![canvas-demo](https://user-images.githubusercontent.com/40261741/199095607-829a692f-db1e-41b3-b313-663b5295c00f.gif)
-
-<br/>
-
----
-
-<div align="center">
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/pykettk)
-
-For those that want to support this project.
-
-</div>
